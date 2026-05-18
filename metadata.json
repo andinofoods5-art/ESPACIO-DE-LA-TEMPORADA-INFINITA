@@ -1,0 +1,8 @@
+{
+  "name": "Temporada Infinita - Sistema Kaizen",
+  "description": "Una landing page exclusiva para la Temporada Infinita de Sistema Kaizen, ofreciendo acceso a cursos premium de alto valor mensualmente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
